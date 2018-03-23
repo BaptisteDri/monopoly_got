@@ -1,0 +1,78 @@
+/* INIT */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+/* HEADER */
+header{
+  text-align: center;
+  background-image: linear-gradient(135deg, #7F0A00 0%, #101c25 100%);
+  padding: 5% 0;
+}
+h1{
+  text-align: center;
+  margin: 0 !important;
+  padding: 0 !important;
+  color: white;
+  padding: 10% 0 !important;
+}
+
+/* NAV */
+nav{
+  background-image: linear-gradient(135deg, #7F0A00 0%, #101c25 100%);
+}
+
+nav img{
+  height: 100%;
+}
+
+/* BALISES H */
+h2, h4{
+  text-align: center;
+}
+
+/* MAIN */
+main{
+  padding: 5% 0;
+}
+#game-container{
+  color: lightgrey;
+  background-image: linear-gradient(135deg, #7F0A00 0%, #101c25 100%);
+  border-top: solid 1px #222222;
+  border-bottom: solid 1px #222222;
+}
+form .btn{
+    background-image: linear-gradient(135deg, #7F0A00 0%, #101c25 100%);
+}
+.clear{
+  clear: both;
+}
+
+/* CANVAS */
+.col-left-game{
+  width: 5%;
+  float: left;
+}
+canvas{
+  width: 75%;
+  border: solid 1px black;
+  background: black;
+  float: left;
+}
+#controls-container{
+  width: 20%;
+  text-align: center;
+  float: left;
+  padding-top: 10%;
+}
+
+
+/* FOOTER */
+footer{
+    background-image: linear-gradient(135deg, #7F0A00 0%, #101c25 100%);
+}
+.btn-large{
+    background-image: linear-gradient(135deg, #101c25 0%, #7F0A00 100%);
+}
