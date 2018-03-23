@@ -18,10 +18,15 @@ This Monopoly Game is a local game designed for 4 players : Tyrion, Cersei, Jon 
 Here is a list of customed cases and theres default value :
 
 Community chest => Allegeance
+
 Chance => Double Face
+
 Train stations => Dragons
+
 Taxes => Different Got's events like "Lannister Taxe", "The 13" or "Little Finger Taxe"...
+
 Jail => Beyond the Wall
+
 Free Parking => The 3 eyed Raven
 
 
